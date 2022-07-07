@@ -7,7 +7,7 @@
 <body>
     <div class="container">
         <h1>👀 Blog</h1>
-        <a href="https://blog.naver.com/pipi5959"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+        <a href="https://blog.naver.com/pipi5959"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
     </div>
     <div class="container">
         <h1>✏️ Studying..</h1>
