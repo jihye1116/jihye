@@ -1,1 +1,1 @@
-"https://img.shields.io/badge/blog-#03C75A?style=flat-square&logo=Naver&logoColor=White"/>
+블로그 주소 : "https://blog.naver.com/pipi5959"
