@@ -1,1 +1,1 @@
-<a herf="https://blog.naver.com/pipi5959">블로그 주소</a>
+블로그 주소 : "https://blog.naver.com/pipi5959"
